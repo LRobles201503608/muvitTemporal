@@ -298,7 +298,7 @@
     .white-Price{
         color: #FFF;
         text-align: center;
-        font-size: 4.2vw;;
+        font-size: 15px;
         margin-top: 0.6rem;
         display: block;
         /*font-family: 'rubik';*/
@@ -306,14 +306,14 @@
       .pink-Price{
         color: #FF056F;
         text-align: center;
-        font-size: 4.2vw;;
+        font-size: 15px;
         margin-top: 0.6rem;
         display: block;
       }
       .purple-Price{
         color: #C01DBF;
         text-align: center;
-        font-size: 4.2vw;;
+        font-size: 15px;
         margin-top: 0.6rem;
         display: block;
       }
@@ -1147,7 +1147,7 @@
     .white-Price{
         color: #FFF;
         text-align: center;
-        font-size: 4.2vw;;
+        font-size: 15px;
         margin-top: 0.6rem;
         display: block;
         /*font-family: 'rubik';*/
@@ -1155,14 +1155,14 @@
       .pink-Price{
         color: #FF056F;
         text-align: center;
-        font-size: 4.2vw;;
+        font-size: 15px;
         margin-top: 0.6rem;
         display: block;
       }
       .purple-Price{
         color: #C01DBF;
         text-align: center;
-        font-size: 4.2vw;;
+        font-size: 15px;
         margin-top: 0.6rem;
         display: block;
       }
