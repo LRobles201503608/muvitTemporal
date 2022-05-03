@@ -16,7 +16,10 @@
         padding-top: 60px; /* Place content 60px from the top */
         transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
       }
-      
+      .numclass{
+        color: #FFF;
+        text-decoration: underline;
+      }
       /* The sidebar links */
       .sidebar a {
         padding: 8px 8px 8px 32px;
@@ -221,7 +224,7 @@
         text-align: center;
     }
     .card-text4{
-        font-size: 1rem;
+        font-size: 0.7rem;
         color: #180A25;
         /*font-family: 'rubik';*/
         font-weight: bold;
@@ -867,7 +870,7 @@
         text-align: center;
     }
     .card-text4{
-        font-size: 1.1vw;
+        font-size: 0.7vw;
         color: #180A25;
         /*font-family: 'rubik';*/
         font-weight: bold;
@@ -1012,7 +1015,9 @@
     /* margin-left: 16%; */
     /* margin-top: -9%; */
   }
-
+  .bg-light2{
+    background-color: #FFF;
+  }
   .bg-dark2{
     background-color: #919191 !important;
     border-radius: 0 px;
@@ -1057,7 +1062,10 @@
         padding-top: 60px; /* Place content 60px from the top */
         transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
       }
-      
+      .numclass{
+        color: #FFF;
+        text-decoration: underline;
+      }
       /* The sidebar links */
       .sidebar a {
         padding: 8px 8px 8px 32px;
@@ -1262,7 +1270,7 @@
         text-align: center;
     }
     .card-text4{
-        font-size: 1rem;
+        font-size: 0.7rem;
         color: #180A25;
         /*font-family: 'rubik';*/
         font-weight: bold;
@@ -1909,7 +1917,7 @@
         text-align: center;
     }
     .card-text4{
-        font-size: 1.1vw;
+        font-size: 0.7vw;
         color: #180A25;
         /*font-family: 'rubik';*/
         font-weight: bold;
@@ -2059,6 +2067,9 @@
     background-color: #919191 !important;
     border-radius: 0 px;
     z-index: 1;
+  }
+  .bg-light2{
+    background-color: #FFF;
   }
 
   .vertical-list{
