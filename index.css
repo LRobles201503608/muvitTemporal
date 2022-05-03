@@ -17,8 +17,8 @@
         transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
       }
       .numclass{
-        color: #FFF;
-        text-decoration: underline;
+        color: #FFF !important;
+        text-decoration: underline !important;
       }
       /* The sidebar links */
       .sidebar a {
@@ -1063,8 +1063,8 @@
         transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
       }
       .numclass{
-        color: #FFF;
-        text-decoration: underline;
+        color: #FFF !important;
+        text-decoration: underline !important;
       }
       /* The sidebar links */
       .sidebar a {
